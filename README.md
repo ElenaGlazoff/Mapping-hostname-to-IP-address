@@ -2,7 +2,7 @@
 Mapping Hostnames to IPv4 Addresses Using a Python Script
 
 ##Intended Audience:
-This project is part of a Product Assessment for the Cyber Security course.
+This project is developed as part of a Cyber Security course assessment and is intended for students learning about network security and vulnerability scanning.
 
 ##Project Objective and Requirements:
 The objective of this project is to develop a Python script that maps a list of user-entered hostnames to their corresponding IPv4 addresses.
