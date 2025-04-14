@@ -40,8 +40,9 @@ List: A list is used to store the entered hostnames. Lists in Python can hold mu
 ##Getting Started:
 1. Running the Script:
 Launch the script in your Python environment.
+File's link:https://github.com/ElenaGlazoff/Mapping-hostname-to-IP-address/blob/main/Elena_Glazoff_scripting.py 
 
-2. Entering Hostnames:
+3. Entering Hostnames:
 You will be prompted to enter hostnames. Press Enter on an empty line to complete the input.
 Example:
 
